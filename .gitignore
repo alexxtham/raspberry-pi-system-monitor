@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor Temporary Files
+*.swp
+*.swo
+
+
+# Virtual environments
+
+.venv/
+venv/
+
+
+
+# Local environment settings
+.env
